@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.Add_Rubric.resources
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.Form1.resources
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.Manage_Clo.resources
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.Manage_Rubric.resources
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.ManageStudent.resources
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.Properties.Resources.resources
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.RegisterForm.resources
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\projectdb\projectdb\bin\Debug\projectdb.exe.config
+C:\Users\HP\source\repos\projectdb\projectdb\bin\Debug\projectdb.exe
+C:\Users\HP\source\repos\projectdb\projectdb\bin\Debug\projectdb.pdb
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.exe
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.pdb
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\projectdb\projectdb\obj\Debug\projectdb.AddClo1.resources
